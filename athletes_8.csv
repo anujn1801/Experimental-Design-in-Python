@@ -1,319 +1,291 @@
 ,Unnamed: 0,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,City,Sport,Event,Medal
-0,1727,"Bradley Don ""Brad"" Adkins",M,22.0,188.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,High Jump,nan
-1,1848,Nathan Ghar-Jun Adrian,M,27.0,198.0,100.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,50 metres Freestyle,Bronze
-2,1849,Nathan Ghar-Jun Adrian,M,27.0,198.0,100.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,100 metres Freestyle,Bronze
-3,1850,Nathan Ghar-Jun Adrian,M,27.0,198.0,100.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Freestyle Relay,Gold
-4,1851,Nathan Ghar-Jun Adrian,M,27.0,198.0,100.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Medley Relay,Gold
-5,4976,Devon Allen,M,21.0,185.0,84.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,110 metres Hurdles,nan
-6,6838,Karl Walter Anderson,M,23.0,186.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,110 metres Hurdles,nan
-7,6859,Norman Frederick Anderson,M,22.0,183.0,97.0,United States,USA,1924 Summer,1924,Paris,Athletics,Shot Put,nan
-8,6861,Otto Kenneth Anderson,M,23.0,175.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,Decathlon,nan
-9,7433,"Robert Adrian ""Robby"" Andrews",M,25.0,178.0,66.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"1,500 metres",nan
-10,9148,John Clifford Argue,M,22.0,180.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,Pentathlon,nan
-11,10107,Ronnie Ash,M,28.0,188.0,95.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,110 metres Hurdles,nan
-12,10110,"Walter Stuart ""Walt"" Ashbaugh",M,23.0,188.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Triple Jump,nan
-13,10129,"William Nyman ""Bill"" Ashenfelter",M,27.0,185.0,68.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"3,000 metres Steeplechase",nan
-14,10130,"Horace Ashenfelter, III",M,29.0,178.0,66.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"3,000 metres Steeplechase",Gold
-15,12162,"Robert Hudson ""Bob"" Backus",M,26.0,195.0,120.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Hammer Throw,nan
-16,12704,Tavis Bailey,M,24.0,191.0,125.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Discus Throw,nan
-17,12940,Walter Thane Baker,M,20.0,183.0,72.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,200 metres,Silver
-18,14718,"Arthur ""Art"" Barnard",M,23.0,180.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,110 metres Hurdles,Bronze
-19,14750,John Baird Barnes,M,22.0,183.0,72.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,800 metres,nan
-20,14760,"Lee Stratford Barnes, Jr.",M,17.0,173.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,Pole Vault,Gold
-21,18773,"Christopher Anthony ""Chris"" Benard",M,26.0,191.0,84.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Triple Jump,nan
-22,19365,"Joseph ""Gunnar"" Bentz",M,20.0,196.0,84.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 200 metres Freestyle Relay,Gold
-23,20090,Boris Berian,M,23.0,183.0,70.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,800 metres,nan
-24,20971,"Arnold ""Arnie"" Betton",M,19.0,188.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,High Jump,nan
-25,21634,Jerome Cousins Biffle,M,24.0,184.0,79.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Long Jump,Gold
-26,22850,Roland Blackman,M,23.0,172.0,63.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,400 metres Hurdles,nan
-27,23129,"Benjamin Floyd ""Ben"" Blankenship",M,27.0,178.0,64.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"1,500 metres",nan
-28,25586,Verne Hobson Booth,M,25.0,185.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,"10,000 metres",nan
-29,25587,Verne Hobson Booth,M,25.0,185.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Individual",nan
-30,25588,Verne Hobson Booth,M,25.0,185.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Team",Silver
-31,25612,Hillary Bor,M,26.0,168.0,52.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"3,000 metres Steeplechase",nan
-32,27500,"Chester A. ""Chet"" Bowman",M,22.0,175.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,100 metres,nan
-33,27965,Marvin Bracy,M,22.0,175.0,78.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,100 metres,nan
-34,28068,"Arthur George ""Art"" Bragg",M,21.0,175.0,70.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,100 metres,nan
-35,29034,Ralph Theodore Breyer,M,20.0,180.0,nan,United States,USA,1924 Summer,1924,Paris,Swimming,400 metres Freestyle,nan
-36,29035,Ralph Theodore Breyer,M,20.0,180.0,nan,United States,USA,1924 Summer,1924,Paris,Swimming,4 x 200 metres Freestyle Relay,Gold
-37,29680,Trayvon Jaquez Bromell,M,21.0,175.0,70.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,100 metres,nan
-38,29681,Trayvon Jaquez Bromell,M,21.0,175.0,70.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 100 metres Relay,nan
-39,29772,"James Kent ""Jim"" Brooker",M,21.0,180.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,Pole Vault,Bronze
-40,29786,Charles Robert Brookins,M,24.0,175.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,400 metres Hurdles,nan
-41,30067,"George Henry Brown, Jr.",M,20.0,185.0,79.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Long Jump,nan
-42,30142,Leroy Taylor Brown,M,22.0,178.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,High Jump,Silver
-43,31714,"Raymond Bates ""Ray"" Buker, Sr.",M,24.0,167.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,"1,500 metres",nan
-44,33299,"Donald ""Donn"" Cabral",M,26.0,178.0,68.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"3,000 metres Steeplechase",nan
-45,34418,"Milton Gray ""Milt"" Campbell",M,18.0,190.0,94.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Decathlon,Silver
-46,35071,"Charles Joseph ""Charlie"" Capozzoli",M,21.0,173.0,57.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"5,000 metres",nan
-47,37613,"Matthew Gerald ""Matt"" Centrowitz, Jr.",M,26.0,176.0,65.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"1,500 metres",Gold
-48,39163,Paul Kipkemboi Chelimo,M,25.0,175.0,57.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"5,000 metres",Silver
-49,41587,"William James ""Billy"" Churchill",M,38.0,167.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,nan
-50,42403,"Louis Alfred ""Pinky"" Clarke",M,22.0,178.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,4 x 100 metres Relay,Gold
-51,42558,"William Bundu ""Will"" Claye",M,25.0,181.0,72.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Triple Jump,Silver
-52,42627,Kerron Stephon Clement,M,30.0,188.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,400 metres Hurdles,Gold
-53,42643,Kyle Clemons,M,25.0,180.0,74.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 400 metres Relay,Gold
-54,42957,"Commodore Shelton ""Com"" Cochran",M,22.0,185.0,75.0,United States,USA,1924 Summer,1924,Paris,Athletics,4 x 400 metres Relay,Gold
-55,43317,"Gerrard Eugene ""Gene"" Cole",M,23.0,182.0,78.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,400 metres,nan
-56,43318,"Gerrard Eugene ""Gene"" Cole",M,23.0,182.0,78.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,4 x 400 metres Relay,Silver
-57,43338,Christian Coleman,M,20.0,175.0,72.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 100 metres Relay,nan
-58,43830,William Albert Comins,M,23.0,175.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,Long Jump,nan
-59,43985,"John ""Jack"" Conger",M,21.0,193.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 200 metres Freestyle Relay,Gold
-60,44062,James Joseph Connolly,M,24.0,172.0,61.0,United States,USA,1924 Summer,1924,Paris,Athletics,"3,000 metres, Team",Bronze
-61,44672,"Theodore ""Ted"" Corbitt",M,32.0,175.0,62.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Marathon,nan
-62,44712,Kevin Cordes,M,22.0,196.0,88.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,100 metres Breaststroke,nan
-63,44713,Kevin Cordes,M,22.0,196.0,88.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Breaststroke,nan
-64,44714,Kevin Cordes,M,22.0,196.0,88.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Medley Relay,Gold
-65,45438,"Charles Frank ""Chan"" Coulter",M,22.0,183.0,74.0,United States,USA,1924 Summer,1924,Paris,Athletics,400 metres Hurdles,nan
-66,46476,Ryan Crouser,M,23.0,201.0,125.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Shot Put,Gold
-67,46477,"Samuel ""Sam"" Crouser",M,24.0,198.0,105.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Javelin Throw,nan
-68,47224,Logan Perry Cunningham,M,25.0,175.0,73.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Pole Vault,nan
-69,49809,"Walter Francis ""Buddy"" Davis",M,21.0,203.0,90.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,High Jump,Gold
-70,49850,Jack Wells Davis,M,21.0,190.0,70.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,110 metres Hurdles,Silver
-71,53438,Clarence Harrison DeMar,M,35.0,171.0,63.0,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,Bronze
-72,53794,John Michael Deni,M,49.0,178.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,50 kilometres Walk,nan
-73,54450,"Michael Aloysius ""Mike"" Devaney",M,32.0,178.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,"3,000 metres Steeplechase",nan
-74,55696,William Harrison Dillard,M,29.0,178.0,69.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,110 metres Hurdles,Gold
-75,55697,William Harrison Dillard,M,29.0,178.0,69.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,4 x 100 metres Relay,Gold
-76,55703,"James Leo ""Jim"" Dillion",M,23.0,188.0,99.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Discus Throw,Bronze
-77,56717,"Raymond Edgar ""Ray"" Dodge",M,23.0,181.0,78.0,United States,USA,1924 Summer,1924,Paris,Athletics,800 metres,nan
-78,57469,Rilus Eastman Doolittle,M,24.0,168.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,"5,000 metres",nan
-79,58606,Caeleb Remel Dressel,M,19.0,191.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,100 metres Freestyle,nan
-80,58607,Caeleb Remel Dressel,M,19.0,191.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Freestyle Relay,Gold
-81,58608,Caeleb Remel Dressel,M,19.0,191.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Medley Relay,Gold
-82,58852,Warren Oliver Druetzler,M,23.0,185.0,68.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"1,500 metres",nan
-83,60548,Conor James Dwyer,M,27.0,196.0,89.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Freestyle,Bronze
-84,60549,Conor James Dwyer,M,27.0,196.0,89.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,400 metres Freestyle,nan
-85,60550,Conor James Dwyer,M,27.0,196.0,89.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 200 metres Freestyle Relay,Gold
-86,60692,"Victor J. ""Vic"" Dyrgall",M,34.0,172.0,63.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Marathon,nan
-87,60915,Ashton James Eaton,M,28.0,186.0,81.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Decathlon,Gold
-88,63513,"Schuyler Colfax ""Sky"" Enck",M,24.0,178.0,73.0,United States,USA,1924 Summer,1924,Paris,Athletics,800 metres,Bronze
-89,63674,"Martin Stephen ""Marty"" Engel",M,20.0,187.0,86.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Hammer Throw,nan
-90,64651,Anthony Lee Ervin,M,35.0,191.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,50 metres Freestyle,Gold
-91,64652,Anthony Lee Ervin,M,35.0,191.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Freestyle Relay,Gold
-92,65311,Andrew Evans,M,25.0,198.0,114.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Discus Throw,nan
-93,65892,"August Oliver ""Gus"" Fager (Fagerstrm-)",M,32.0,178.0,61.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Individual",nan
-94,65893,"August Oliver ""Gus"" Fager (Fagerstrm-)",M,32.0,178.0,61.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Team",Silver
-95,67431,"James ""Jimmy"" Feigen",M,26.0,196.0,98.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Freestyle Relay,Gold
-96,67680,"Samuel Morse ""Sam"" Felton, Jr.",M,26.0,187.0,89.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Hammer Throw,nan
-97,69512,Mason Finley,M,25.0,203.0,158.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Discus Throw,nan
-98,69909,Horatio May Fitch,M,23.0,175.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,400 metres,Silver
-99,71531,Charles Hines Foster,M,30.0,170.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,10 kilometres Walk,nan
-100,73117,Harry Gaylord Frieda,M,22.0,181.0,82.0,United States,USA,1924 Summer,1924,Paris,Athletics,Decathlon,nan
-101,73627,"James Emanuel ""Jim"" Fuchs",M,24.0,187.0,101.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Shot Put,Bronze
-102,74138,Sean Patrick Furey,M,33.0,188.0,90.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Javelin Throw,nan
-103,76903,"James F. ""Jimmy"" Gathers",M,22.0,181.0,69.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,200 metres,Bronze
-104,76923,Justin Alexander Gatlin,M,34.0,186.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,100 metres,Silver
-105,76924,Justin Alexander Gatlin,M,34.0,186.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,200 metres,nan
-106,76925,Justin Alexander Gatlin,M,34.0,186.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 100 metres Relay,nan
-107,77224,Tyson Lashane Gay,M,33.0,181.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 100 metres Relay,nan
-108,78300,"James Eastman ""Jim"" Gerhardt",M,23.0,190.0,88.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Triple Jump,nan
-109,82274,Fortune Everett Gordien,M,29.0,184.0,104.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Discus Throw,nan
-110,82860,"Edward Orval ""Ned"" Gourdin",M,26.0,183.0,79.0,United States,USA,1924 Summer,1924,Paris,Athletics,Long Jump,Silver
-111,82861,Meredith Charles Gourdine (Gouardino-),M,22.0,183.0,76.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Long Jump,Silver
-112,83209,Glenn Graham,M,20.0,180.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,Pole Vault,Silver
-113,83237,Merwin B. Graham,M,21.0,183.0,73.0,United States,USA,1924 Summer,1924,Paris,Athletics,Triple Jump,nan
-114,83668,John Joseph Gray,M,29.0,170.0,57.0,United States,USA,1924 Summer,1924,Paris,Athletics,"10,000 metres",nan
-115,83669,John Joseph Gray,M,29.0,170.0,57.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Individual",nan
-116,83670,John Joseph Gray,M,29.0,170.0,57.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Team",Silver
-117,87042,"George Phineas Guthrie, Jr.",M,20.0,180.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,110 metres Hurdles,nan
-118,87749,Francis Townley Haas,M,19.0,196.0,84.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Freestyle,nan
-119,87750,Francis Townley Haas,M,19.0,196.0,84.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 200 metres Freestyle Relay,Gold
-120,88302,Lloyd George Hahn,M,25.0,175.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,"1,500 metres",nan
-121,88738,Arman Hall,M,22.0,183.0,75.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 400 metres Relay,Gold
-122,89317,Brutus Kerr Hamilton,M,23.0,183.0,80.0,United States,USA,1924 Summer,1924,Paris,Athletics,Pentathlon,nan
-123,91265,"Michael ""Mike"" Hartfield",M,26.0,191.0,77.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Long Jump,nan
-124,91350,Samuel Glenn Hartranft,M,22.0,190.0,115.0,United States,USA,1924 Summer,1924,Paris,Athletics,Shot Put,Silver
-125,91351,Samuel Glenn Hartranft,M,22.0,190.0,115.0,United States,USA,1924 Summer,1924,Paris,Athletics,Discus Throw,nan
-126,93589,"Franklin Wesley ""Bud"" Held",M,24.0,185.0,75.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Javelin Throw,nan
-127,93612,Alan Boone Helffrich,M,23.0,178.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,4 x 400 metres Relay,Gold
-128,93997,"Jeffrey ""Jeff"" Henderson",M,27.0,183.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Long Jump,Gold
-129,94063,"James P. ""Jimmy"" Henigan",M,32.0,168.0,54.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Individual",nan
-130,94064,"James P. ""Jimmy"" Henigan",M,32.0,168.0,54.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Team",Silver
-131,95937,Darrell Hill,M,22.0,191.0,145.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Shot Put,nan
-132,95946,George Leroy Hill,M,23.0,180.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,200 metres,nan
-133,96061,Ralph Gorman Hills,M,22.0,185.0,95.0,United States,USA,1924 Summer,1924,Paris,Athletics,Shot Put,Bronze
-134,96198,Harry Robert Hinkel,M,20.0,179.0,73.0,United States,USA,1924 Summer,1924,Paris,Athletics,10 kilometres Walk,nan
-135,98432,Clarence Darrow Hooper,M,20.0,190.0,82.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Shot Put,Silver
-136,99163,Cyrus Dean Hostetler,M,29.0,188.0,95.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Javelin Throw,nan
-137,99301,"Lemuel Clarence ""Bud"" Houser",M,22.0,185.0,85.0,United States,USA,1924 Summer,1924,Paris,Athletics,Shot Put,Gold
-138,99302,"Lemuel Clarence ""Bud"" Houser",M,22.0,185.0,85.0,United States,USA,1924 Summer,1924,Paris,Athletics,Discus Throw,Gold
-139,99497,"Richard John ""Dick"" Howell",M,20.0,198.0,nan,United States,USA,1924 Summer,1924,Paris,Swimming,"1,500 metres Freestyle",nan
-140,99498,"Richard John ""Dick"" Howell",M,20.0,198.0,nan,United States,USA,1924 Summer,1924,Paris,Swimming,4 x 200 metres Freestyle Relay,Gold
-141,100179,William DeHart Hubbard,M,20.0,170.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,Long Jump,Gold
-142,100180,William DeHart Hubbard,M,20.0,170.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,Triple Jump,nan
-143,101352,"Francis Valentine Joseph ""Frank"" Hussey",M,19.0,178.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,4 x 100 metres Relay,Gold
-144,102993,"Simeon Garland ""Sim"" Iness",M,22.0,198.0,118.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Discus Throw,Gold
-145,105321,Connor Jaeger,M,25.0,185.0,77.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,400 metres Freestyle,nan
-146,105322,Connor Jaeger,M,25.0,185.0,77.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,"1,500 metres Freestyle",Silver
-147,105363,Evan Reese Jager,M,27.0,188.0,65.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"3,000 metres Steeplechase",Silver
-148,108876,Charles Jock,M,26.0,191.0,75.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,800 metres,nan
-149,109513,Robert Earl Johnson,M,33.0,170.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,"10,000 metres",nan
-150,109514,Robert Earl Johnson,M,33.0,170.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Individual",Bronze
-151,109515,Robert Earl Johnson,M,33.0,170.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,"Cross-Country, Team",Silver
-152,109597,Kibw Rasheid Johnson,M,35.0,188.0,102.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Hammer Throw,nan
-153,109661,"Franklin Pitcher ""Pitch"" Johnson",M,23.0,176.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,110 metres Hurdles,nan
-154,109738,Orda Wayne Johnson,M,21.0,170.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,"10,000 metres",nan
-155,110241,"Thomas Martin ""Tom"" Jones",M,35.0,170.0,61.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Marathon,nan
-156,111077,Robert Louis Juday,M,23.0,180.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,High Jump,nan
-157,111809,"Morton Armour ""Mort"" Kaer",M,21.0,180.0,80.0,United States,USA,1924 Summer,1924,Paris,Athletics,Pentathlon,nan
-158,112346,Chase Tyler Kalisz,M,22.0,193.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,400 metres Individual Medley,Silver
-159,115265,"Mebrahtom R. ""Meb"" Keflezighi",M,41.0,166.0,56.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Marathon,nan
-160,115867,Sam Kendricks,M,23.0,185.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Pole Vault,Bronze
-161,119515,"Sloss Price King, Jr.",M,27.0,180.0,64.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,10 kilometres Walk,nan
-162,119629,"Daniel Chapin ""Dan"" Kinsey",M,22.0,183.0,72.0,United States,USA,1924 Summer,1924,Paris,Athletics,110 metres Hurdles,Gold
-163,119675,Shadrack Kipchirchir,M,27.0,173.0,54.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"10,000 metres",nan
-164,119780,"Edward Buckler ""Ed"" Kirby",M,22.0,173.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,"3,000 metres, Team",Bronze
-165,123689,Ford Hiroshi Konno,M,19.0,167.0,68.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,400 metres Freestyle,Silver
-166,123690,Ford Hiroshi Konno,M,19.0,167.0,68.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,"1,500 metres Freestyle",Gold
-167,123691,Ford Hiroshi Konno,M,19.0,167.0,68.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,4 x 200 metres Freestyle Relay,Gold
-168,124312,Leonard Essau Korir,M,29.0,170.0,59.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"10,000 metres",nan
-169,125631,"Joseph Mathias ""Joe"" Kovacs",M,27.0,183.0,134.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Shot Put,Silver
-170,130228,"Erik Kynard, Jr.",M,25.0,194.0,89.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,High Jump,nan
-171,130812,Bernard Kipchirchir Lagat,M,41.0,173.0,58.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"5,000 metres",nan
-172,132656,Leo Edward Larrivee,M,20.0,173.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,"3,000 metres, Team",Bronze
-173,133028,"Helmut ""Henry"" Laskau",M,35.0,172.0,64.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,10 kilometres Walk,nan
-174,133771,Jarrion Lawson,M,22.0,188.0,78.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 100 metres Relay,nan
-175,133772,Jarrion Lawson,M,22.0,188.0,78.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Long Jump,nan
-176,133828,"Donald Robert ""Don"" Laz",M,23.0,188.0,82.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Pole Vault,Silver
-177,134546,"Jeremiah Alfred ""Al"" LeConey",M,23.0,180.0,72.0,United States,USA,1924 Summer,1924,Paris,Athletics,4 x 100 metres Relay,Gold
-178,135768,"Robert Lucien Pierre ""Bob"" LeGendre",M,26.0,190.0,88.0,United States,USA,1924 Summer,1924,Paris,Athletics,Pentathlon,Bronze
-179,137062,George William Lermond,M,19.0,173.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,"5,000 metres",nan
-180,138810,"Thomas John ""Tom"" Lieb",M,24.0,190.0,98.0,United States,USA,1924 Summer,1924,Paris,Athletics,Discus Throw,Bronze
-181,140451,Jay Litherland,M,20.0,183.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,400 metres Individual Medley,nan
-182,141438,Ryan Steven Lochte,M,32.0,188.0,88.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 200 metres Freestyle Relay,Gold
-183,141439,Ryan Steven Lochte,M,32.0,188.0,88.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Individual Medley,nan
-184,145208,Joseph Oliver MacDonald,M,20.0,180.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,4 x 400 metres Relay,Gold
-185,152221,"Robert Bruce ""Bob"" Mathias",M,21.0,190.0,92.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Decathlon,Gold
-186,152514,Ollie Genoa Matson,M,22.0,188.0,89.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,400 metres,Bronze
-187,152515,Ollie Genoa Matson,M,22.0,188.0,89.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,4 x 400 metres Relay,Silver
-188,152871,George Frank Mattos,M,22.0,178.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Pole Vault,nan
-189,154198,Conor McCullough,M,25.0,196.0,107.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Hammer Throw,nan
-190,154373,James Marshall McEachern,M,42.0,182.0,102.0,United States,USA,1924 Summer,1924,Paris,Athletics,Hammer Throw,nan
-191,154523,"Matthew John ""Matt"" McGrath",M,48.0,182.0,115.0,United States,USA,1924 Summer,1924,Paris,Athletics,Hammer Throw,Silver
-192,155133,"Robert Earl ""Bob"" McMillen",M,24.0,180.0,68.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"1,500 metres",Silver
-193,155275,Tony McQuay,M,26.0,181.0,72.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 400 metres Relay,Gold
-194,155331,Hassan Mead,M,25.0,188.0,66.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"5,000 metres",nan
-195,156275,"Charles Lawrence ""Chuck"" Mellor",M,30.0,175.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,nan
-196,156962,"John William ""Jack"" Merchant",M,25.0,183.0,85.0,United States,USA,1924 Summer,1924,Paris,Athletics,Hammer Throw,nan
-197,157266,LaShawn Merritt,M,30.0,191.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,200 metres,nan
-198,157267,LaShawn Merritt,M,30.0,191.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,400 metres,Bronze
-199,157268,LaShawn Merritt,M,30.0,191.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 400 metres Relay,Gold
-200,159128,"William Preston ""Bill"" Miller",M,22.0,179.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Javelin Throw,Silver
-201,159157,Cody Miller,M,24.0,180.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,100 metres Breaststroke,Bronze
-202,159158,Cody Miller,M,24.0,180.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Medley Relay,Gold
-203,162382,Javier Montez,M,22.0,188.0,66.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"1,500 metres",nan
-204,162582,"Charles Hewes ""Charlie"" Moore, Jr.",M,22.0,185.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,400 metres Hurdles,Gold
-205,162583,"Charles Hewes ""Charlie"" Moore, Jr.",M,22.0,185.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,4 x 400 metres Relay,Silver
-206,166195,Loren Murchison,M,25.0,174.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,100 metres,nan
-207,166196,Loren Murchison,M,25.0,174.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,4 x 100 metres Relay,Gold
-208,166296,Clayton Murphy,M,21.0,180.0,68.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,800 metres,Bronze
-209,166345,Ryan Murphy,M,21.0,191.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,100 metres Backstroke,Gold
-210,166346,Ryan Murphy,M,21.0,191.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Backstroke,Gold
-211,166347,Ryan Murphy,M,21.0,191.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Medley Relay,Gold
-212,170019,William Neufeld,M,23.0,188.0,91.0,United States,USA,1924 Summer,1924,Paris,Athletics,Javelin Throw,nan
-213,173119,Bayes Marshall Norton,M,20.0,178.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,200 metres,nan
-214,173126,Emerson Carlysle Norton,M,23.0,184.0,79.0,United States,USA,1924 Summer,1924,Paris,Athletics,Decathlon,Silver
-215,173901,John Hamilton Nunn,M,38.0,188.0,78.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,50 kilometres Walk,nan
-216,174550,"William Parry O'Brien, Jr.",M,20.0,190.0,111.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Shot Put,Gold
-217,174712,"Eugene George ""Gene"" Oberst",M,22.0,196.0,92.0,United States,USA,1924 Summer,1924,Paris,Athletics,Javelin Throw,Bronze
-218,178430,Harold Marion Osborn (Osborne-),M,25.0,181.0,73.0,United States,USA,1924 Summer,1924,Paris,Athletics,High Jump,Gold
-219,178431,Harold Marion Osborn (Osborne-),M,25.0,181.0,73.0,United States,USA,1924 Summer,1924,Paris,Athletics,Decathlon,Gold
-220,179614,"Yoshinobu ""Yoshi"" Oyakawa",M,18.0,169.0,70.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,100 metres Backstroke,Gold
-221,179979,"Charles William ""Charley"" Paddock",M,23.0,172.0,75.0,United States,USA,1924 Summer,1924,Paris,Athletics,100 metres,nan
-222,179980,"Charles William ""Charley"" Paddock",M,23.0,172.0,75.0,United States,USA,1924 Summer,1924,Paris,Athletics,200 metres,Silver
-223,183878,Charles Russell Payne,M,21.0,172.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,"3,000 metres Steeplechase",nan
-224,184064,"Reginald James ""Reggie"" Pearman, III",M,28.0,186.0,76.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,800 metres,nan
-225,184119,Jacob Pebley,M,22.0,193.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Backstroke,nan
-226,187912,"Michael Fred Phelps, II",M,31.0,193.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Freestyle Relay,Gold
-227,187913,"Michael Fred Phelps, II",M,31.0,193.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 200 metres Freestyle Relay,Gold
-228,187914,"Michael Fred Phelps, II",M,31.0,193.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,100 metres Butterfly,Silver
-229,187915,"Michael Fred Phelps, II",M,31.0,193.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Butterfly,Gold
-230,187916,"Michael Fred Phelps, II",M,31.0,193.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Individual Medley,Gold
-231,187917,"Michael Fred Phelps, II",M,31.0,193.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Medley Relay,Gold
-232,187918,"Harold Roy ""Pete"" Phelps",M,21.0,181.0,65.0,United States,USA,1924 Summer,1924,Paris,Athletics,"5,000 metres",nan
-233,188548,Blake Pieroni,M,20.0,188.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Freestyle Relay,Gold
-234,190202,David Edward Plummer,M,30.0,191.0,95.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,100 metres Backstroke,Bronze
-235,190203,David Edward Plummer,M,30.0,191.0,95.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Medley Relay,Gold
-236,191372,Tom Woodson Poor,M,21.0,183.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,High Jump,nan
-237,191437,"Augustus Russell ""Gus"" Pope",M,25.0,185.0,95.0,United States,USA,1924 Summer,1924,Paris,Athletics,Discus Throw,nan
-238,191840,"Jeffrey Issack ""Jeff"" Porter",M,30.0,183.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,110 metres Hurdles,nan
-239,192895,Josh Prenot,M,23.0,180.0,76.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Breaststroke,Silver
-240,193135,"Lee Bryan Priester, Jr.",M,21.0,185.0,84.0,United States,USA,1924 Summer,1924,Paris,Athletics,Javelin Throw,nan
-241,197683,Joie William Ray,M,30.0,165.0,54.0,United States,USA,1924 Summer,1924,Paris,Athletics,"3,000 metres, Team",Bronze
-242,198893,Lindy John Remigino,M,21.0,173.0,67.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,100 metres,Gold
-243,198894,Lindy John Remigino,M,21.0,173.0,67.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,4 x 100 metres Relay,Gold
-244,200069,"Robert Eugene ""Bob"" Richards",M,26.0,178.0,75.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Pole Vault,Gold
-245,200145,"William Hord ""Bill"" Richardson",M,20.0,180.0,77.0,United States,USA,1924 Summer,1924,Paris,Athletics,800 metres,nan
-246,200401,Edwin Marvin Rick,M,23.0,178.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,"3,000 metres Steeplechase",nan
-247,200818,Ivan Harris Riley,M,23.0,183.0,74.0,United States,USA,1924 Summer,1924,Paris,Athletics,400 metres Hurdles,Bronze
-248,201673,Gil Roberts,M,27.0,188.0,82.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,400 metres,nan
-249,201674,Gil Roberts,M,27.0,188.0,82.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 400 metres Relay,Gold
-250,201863,"Raymond Amos ""Ray"" Robertson",M,22.0,175.0,61.0,United States,USA,1924 Summer,1924,Paris,Athletics,400 metres,nan
-251,201868,Ricky Robertson,M,25.0,180.0,75.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,High Jump,nan
-252,201942,Byron Robinson,M,21.0,175.0,75.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,400 metres Hurdles,nan
-253,202341,"Michael ""Mike"" Rodgers",M,31.0,175.0,81.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 100 metres Relay,nan
-254,203872,John Luther Romig,M,25.0,176.0,62.0,United States,USA,1924 Summer,1924,Paris,Athletics,"5,000 metres",nan
-255,204241,Albert Edward Rose,M,22.0,175.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,Long Jump,nan
-256,204514,Harris Browning Ross,M,28.0,170.0,60.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"3,000 metres Steeplechase",nan
-257,206250,Galen Rupp,M,30.0,181.0,61.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,"10,000 metres",nan
-258,206251,Galen Rupp,M,30.0,181.0,61.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Marathon,Bronze
-259,206825,Sean Ryan,M,23.0,191.0,77.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,10 kilometres Open Water,nan
-260,210241,"David Wesley ""Wes"" Santee",M,20.0,185.0,68.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"5,000 metres",nan
-261,213815,Clarke Currie Scholes,M,21.0,191.0,79.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,100 metres Freestyle,Gold
-262,213850,Jackson Volney Scholz,M,27.0,172.0,61.0,United States,USA,1924 Summer,1924,Paris,Athletics,100 metres,Silver
-263,213851,Jackson Volney Scholz,M,27.0,172.0,61.0,United States,USA,1924 Summer,1924,Paris,Athletics,200 metres,Gold
-264,217749,"George Donald Shaw, II",M,20.0,183.0,81.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Triple Jump,nan
-265,217937,"Donald Alexander ""Don"" Sheff",M,21.0,178.0,69.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,4 x 200 metres Freestyle Relay,Gold
-266,218466,"Thomas Allen ""Tom"" Shields",M,25.0,193.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,100 metres Butterfly,nan
-267,218467,"Thomas Allen ""Tom"" Shields",M,25.0,193.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,200 metres Butterfly,nan
-268,218468,"Thomas Allen ""Tom"" Shields",M,25.0,193.0,86.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 100 metres Medley Relay,Gold
-269,220453,Cale Simmons,M,25.0,183.0,66.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Pole Vault,nan
-270,220460,"Floyd Macon Simmons, Jr.",M,29.0,183.0,80.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Decathlon,Bronze
-271,221902,Leo Allan Sjogren (Sjgren-),M,38.0,185.0,75.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,50 kilometres Walk,nan
-272,223361,Adam Wyman Smith,M,20.0,165.0,nan,United States,USA,1924 Summer,1924,Paris,Swimming,"1,500 metres Freestyle",nan
-273,223447,Clark Smith,M,21.0,206.0,90.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,4 x 200 metres Freestyle Relay,Gold
-274,223480,Finis Dean Smith,M,20.0,180.0,72.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,100 metres,nan
-275,223481,Finis Dean Smith,M,20.0,180.0,72.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,4 x 100 metres Relay,Gold
-276,223664,Lester Edward Smith,M,22.0,178.0,nan,United States,USA,1924 Summer,1924,Paris,Swimming,400 metres Freestyle,nan
-277,226257,Albert Ralph Spearow,M,28.0,180.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,Pole Vault,nan
-278,226405,William Octavius Spencer,M,23.0,176.0,60.0,United States,USA,1924 Summer,1924,Paris,Athletics,"1,500 metres",nan
-279,227517,"Andrew William ""Andy"" Stanfield",M,24.0,187.0,79.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,200 metres,Gold
-280,227518,"Andrew William ""Andy"" Stanfield",M,24.0,187.0,79.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,4 x 100 metres Relay,Gold
-281,229230,"William Edwards ""Bill"" Stevenson",M,23.0,183.0,77.0,United States,USA,1924 Summer,1924,Paris,Athletics,4 x 400 metres Relay,Gold
-282,229982,"Curtis Charles ""Curt"" Stone",M,29.0,175.0,61.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"5,000 metres",nan
-283,229983,"Curtis Charles ""Curt"" Stone",M,29.0,175.0,61.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"10,000 metres",nan
-284,235022,Jeremy Taiwo,M,26.0,193.0,91.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Decathlon,nan
-285,237043,Christian Taylor,M,26.0,188.0,81.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Triple Jump,Gold
-286,237114,John Coard Taylor,M,23.0,180.0,73.0,United States,USA,1924 Summer,1924,Paris,Athletics,400 metres,nan
-287,237144,Frederick Morgan Taylor,M,21.0,185.0,75.0,United States,USA,1924 Summer,1924,Paris,Athletics,400 metres Hurdles,Gold
-288,239927,"Willard Lewis Tibbetts, Jr.",M,21.0,170.0,59.0,United States,USA,1924 Summer,1924,Paris,Athletics,"3,000 metres, Team",Bronze
-289,240362,Michael DeLorean Tinsley,M,32.0,186.0,74.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,400 metres Hurdles,nan
-290,241745,"Frederic Delmont ""Fred"" Tootell",M,21.0,187.0,98.0,United States,USA,1924 Summer,1924,Paris,Athletics,Hammer Throw,Gold
-291,251494,David Verburg,M,25.0,173.0,70.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,400 metres,nan
-292,251495,David Verburg,M,25.0,173.0,70.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,4 x 400 metres Relay,Gold
-293,257053,Jared Ward,M,27.0,178.0,66.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Marathon,nan
-294,257579,Ray Bates Watson,M,25.0,181.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,"1,500 metres",nan
-295,257621,John Nickerson Watters,M,20.0,180.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,800 metres,nan
-296,257743,Ameer Kenneth Webb,M,25.0,180.0,82.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,200 metres,nan
-297,258346,Adolf J. Weinacker,M,23.0,183.0,73.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,50 kilometres Walk,nan
-298,258885,Frank Edward Wendling,M,26.0,163.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,nan
-299,259578,Homer D. Whelchel,M,24.0,188.0,83.0,United States,USA,1924 Summer,1924,Paris,Athletics,Javelin Throw,nan
-300,259793,"Malvin Groston ""Mal"" Whitfield",M,27.0,185.0,76.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,400 metres,nan
-301,259794,"Malvin Groston ""Mal"" Whitfield",M,27.0,185.0,76.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,800 metres,Gold
-302,259795,"Malvin Groston ""Mal"" Whitfield",M,27.0,185.0,76.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,4 x 400 metres Relay,Silver
-303,260322,"Kenneth George ""Ken"" Wiesner",M,27.0,192.0,91.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,High Jump,Silver
-304,260682,Jordan Wilimovsky,M,22.0,175.0,68.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,"1,500 metres Freestyle",nan
-305,260683,Jordan Wilimovsky,M,22.0,175.0,68.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Swimming,10 kilometres Open Water,nan
-306,261460,Richard Earle Wilson,M,23.0,180.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,Triple Jump,nan
-307,261463,Eric Colquhoun Wilson,M,23.0,183.0,73.0,United States,USA,1924 Summer,1924,Paris,Athletics,400 metres,nan
-308,261635,"Frederick Loren ""Fred"" Wilt",M,31.0,173.0,66.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,"10,000 metres",nan
-309,261861,Rudy Winkler,M,21.0,188.0,109.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Hammer Throw,nan
-310,262484,"Wallace Perry ""Wally"" Wolf, Jr.",M,21.0,180.0,80.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,4 x 200 metres Freestyle Relay,Gold
-311,262956,"William Tripp ""Bill"" Woolsey",M,17.0,183.0,84.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,"1,500 metres Freestyle",nan
-312,262957,"William Tripp ""Bill"" Woolsey",M,17.0,183.0,84.0,United States,USA,1952 Summer,1952,Helsinki,Swimming,4 x 200 metres Freestyle Relay,Gold
-313,263620,Paul H. (-Paul Knuth) Wyatt,M,17.0,182.0,nan,United States,USA,1924 Summer,1924,Paris,Swimming,100 metres Backstroke,Silver
-314,265871,Dewey Lee Yoder,M,21.0,187.0,75.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,400 metres Hurdles,nan
-315,266223,"Cyrus J. ""Cy"" Young, Jr.",M,23.0,195.0,93.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Javelin Throw,Gold
-316,269698,"Zachery ""Zach"" Ziemek",M,23.0,193.0,89.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Decathlon,nan
-317,270795,Frank Thomas Zuna,M,31.0,175.0,69.0,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,nan
+0,470,"Abdihakim ""Abdi"" Abdirahman",M,35.0,178.0,61.0,United States,USA,2012 Summer,2012,London,Athletics,Marathon,nan
+1,1511,Platt Adams,M,27.0,188.0,78.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+2,1727,"Bradley Don ""Brad"" Adkins",M,22.0,188.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,High Jump,nan
+3,4159,"David Donald ""Dave"" Albritton",M,23.0,191.0,79.0,United States,USA,1936 Summer,1936,Berlin,Athletics,High Jump,Silver
+4,11027,Charles Allen Austin,M,24.0,183.0,77.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,High Jump,nan
+5,11028,Charles Allen Austin,M,28.0,183.0,77.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,High Jump,Gold
+6,11029,Charles Allen Austin,M,32.0,183.0,77.0,United States,USA,2000 Summer,2000,Sydney,Athletics,High Jump,nan
+7,11975,"Jack Stangl ""Jack"" Bacheler",M,28.0,200.0,77.0,United States,USA,1972 Summer,1972,Munich,Athletics,Marathon,nan
+8,12693,Ryan Bailey,M,23.0,193.0,82.0,United States,USA,2012 Summer,2012,London,Athletics,100 meters,nan
+9,12941,Walter Thane Baker,M,25.0,183.0,72.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,100 meters,Silver
+10,15060,"James Archibald Barrineau, Jr.",M,21.0,190.0,70.0,United States,USA,1976 Summer,1976,Montreal,Athletics,High Jump,nan
+11,18447,Frank Vern Belote,M,28.0,172.0,69.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,nan
+12,20971,"Arnold ""Arnie"" Betton",M,19.0,188.0,77.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,High Jump,nan
+13,27500,"Chester A. ""Chet"" Bowman",M,22.0,175.0,70.0,United States,USA,1924 Summer,1924,Paris,Athletics,100 meters,nan
+14,27945,"Claude Odell Bracey, Jr.",M,18.0,180.0,70.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,100 meters,nan
+15,27965,Marvin Bracy,M,22.0,175.0,78.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,100 meters,nan
+16,28068,"Arthur George ""Art"" Bragg",M,21.0,175.0,70.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,100 meters,nan
+17,28333,Keith Alan Brantly,M,34.0,180.0,64.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,Marathon,nan
+18,28631,"Alexander Dalglish Neilson ""Alex"" Breckenridge",M,28.0,176.0,65.0,United States,USA,1960 Summer,1960,Roma,Athletics,Marathon,nan
+19,29680,Trayvon Jaquez Bromell,M,21.0,175.0,70.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,100 meters,nan
+20,30142,Leroy Taylor Brown,M,22.0,178.0,64.0,United States,USA,1924 Summer,1924,Paris,Athletics,High Jump,Silver
+21,30169,Reynaldo Ray Brown,M,17.0,193.0,89.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,High Jump,nan
+22,30176,"Ronald James ""Ron"" Brown",M,23.0,180.0,84.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,100 meters,nan
+23,30197,"Ellison Myers ""Tarzan"" Brown",M,21.0,170.0,63.0,United States,USA,1936 Summer,1936,Berlin,Athletics,Marathon,nan
+24,30229,"Daniel ""Dan"" Browne",M,29.0,178.0,66.0,United States,USA,2004 Summer,2004,Athina,Athletics,Marathon,nan
+25,30282,"Edward ""Ed"" Broxterman",M,22.0,196.0,77.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,High Jump,nan
+26,31389,"Francis Joseph ""Frank"" Budd",M,21.0,178.0,76.0,United States,USA,1960 Summer,1960,Roma,Athletics,100 meters,nan
+27,32091,Jervis Watson Burdick,M,23.0,183.0,68.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+28,32334,"Thomas Edmund ""Tom"" Burke",M,21.0,183.0,66.0,United States,USA,1896 Summer,1896,Athina,Athletics,100 meters,Gold
+29,32525,Leroy Russell Burrell,M,25.0,183.0,82.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,100 meters,nan
+30,35963,Edward Powell Carr,M,26.0,168.0,59.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,nan
+31,36323,"Nathaniel John ""Nate"" Cartmell",M,21.0,182.0,71.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,100 meters,Silver
+32,36325,"Nathaniel John ""Nate"" Cartmell",M,25.0,182.0,71.0,United States,USA,1908 Summer,1908,London,Athletics,100 meters,nan
+33,36354,"Edward Julius ""Ed"" Caruthers, Jr.",M,19.0,196.0,93.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,High Jump,nan
+34,36355,"Edward Julius ""Ed"" Caruthers, Jr.",M,23.0,196.0,93.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,High Jump,Silver
+35,41587,"William James ""Billy"" Churchill",M,38.0,167.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,nan
+36,42250,Ellery Harding Clark,M,22.0,180.0,nan,United States,USA,1896 Summer,1896,Athina,Athletics,High Jump,Gold
+37,42796,"Robert ""Bobby"" Cloughen",M,19.0,179.0,76.0,United States,USA,1908 Summer,1908,London,Athletics,100 meters,nan
+38,44063,James Brendan Bennet Connolly,M,27.0,175.0,72.0,United States,USA,1896 Summer,1896,Athina,Athletics,High Jump,Silver
+39,44087,Mark Robert Conover,M,28.0,178.0,60.0,United States,USA,1988 Summer,1988,Seoul,Athletics,Marathon,nan
+40,44251,Hollis Conway,M,21.0,183.0,68.0,United States,USA,1988 Summer,1988,Seoul,Athletics,High Jump,Silver
+41,44252,Hollis Conway,M,25.0,183.0,68.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,High Jump,Bronze
+42,44279,Mark J. Coogan,M,30.0,178.0,62.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,Marathon,nan
+43,44672,"Theodore ""Ted"" Corbitt",M,32.0,175.0,62.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Marathon,nan
+44,45272,"Nicholas ""Nick"" Costes",M,30.0,167.0,55.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,Marathon,nan
+45,45501,John Ira Courtney,M,23.0,180.0,72.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,nan
+46,45843,Ralph Cook Craig,M,22.0,182.0,73.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,Gold
+47,45979,Shawn Crawford,M,26.0,181.0,86.0,United States,USA,2004 Summer,2004,Athina,Athletics,100 meters,nan
+48,47096,Alan Lawrence Culpepper,M,31.0,186.0,59.0,United States,USA,2004 Summer,2004,Athina,Athletics,Marathon,nan
+49,47375,"Thomas Pelham ""Tom"" Curtis",M,23.0,176.0,66.0,United States,USA,1896 Summer,1896,Athina,Athletics,100 meters,nan
+50,49809,"Walter Francis ""Buddy"" Davis",M,21.0,203.0,90.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,High Jump,Gold
+51,50104,"Harry Ronald ""Ron"" Daws",M,31.0,183.0,66.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,Marathon,nan
+52,52641,"Rodney ""Rod"" DeHaven",M,33.0,172.0,58.0,United States,USA,2000 Summer,2000,Sydney,Athletics,Marathon,nan
+53,53437,Clarence Harrison DeMar,M,23.0,171.0,63.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+54,53438,Clarence Harrison DeMar,M,35.0,171.0,63.0,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,Bronze
+55,53439,Clarence Harrison DeMar,M,39.0,171.0,63.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,Marathon,nan
+56,55694,William Harrison Dillard,M,25.0,178.0,69.0,United States,USA,1948 Summer,1948,London,Athletics,100 meters,Gold
+57,56243,Walter Dix,M,22.0,175.0,80.0,United States,USA,2008 Summer,2008,Beijing,Athletics,100 meters,Bronze
+58,58635,Howard Porter Drew,M,21.0,172.0,65.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,nan
+59,58859,"Jonathan A. ""Jon"" Drummond",M,27.0,175.0,75.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,100 meters,nan
+60,58861,"Jonathan A. ""Jon"" Drummond",M,32.0,175.0,75.0,United States,USA,2000 Summer,2000,Sydney,Athletics,100 meters,nan
+61,59403,Arthur Francis Duffey,M,20.0,170.0,62.0,United States,USA,1900 Summer,1900,Paris,Athletics,100 meters,nan
+62,59640,"Charles Everett ""Charlie"" Dumas",M,19.0,185.0,81.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,High Jump,Gold
+63,59641,"Charles Everett ""Charlie"" Dumas",M,23.0,185.0,81.0,United States,USA,1960 Summer,1960,Roma,Athletics,High Jump,nan
+64,59911,"Christopher Williams ""Chris"" Dunn",M,21.0,196.0,86.0,United States,USA,1972 Summer,1972,Munich,Athletics,High Jump,nan
+65,60692,"Victor J. ""Vic"" Dyrgall",M,34.0,172.0,63.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Marathon,nan
+66,61221,"Thomas Dwight ""Dike"" Eddleman",M,25.0,190.0,84.0,United States,USA,1948 Summer,1948,London,Athletics,High Jump,nan
+67,61242,"Leonard Graves ""Buddy"" Edelen",M,27.0,178.0,64.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,Marathon,nan
+68,63861,Harold Bradford Enright,M,22.0,178.0,68.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+69,64213,Egon R. Erickson,M,23.0,180.0,72.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+70,64656,Joseph John Erxleben,M,22.0,170.0,61.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+71,65373,Kenny Evans,M,21.0,188.0,74.0,United States,USA,2000 Summer,2000,Sydney,Athletics,High Jump,nan
+72,65554,"Henry Norwood ""Barney"" Ewell",M,30.0,180.0,71.0,United States,USA,1948 Summer,1948,London,Athletics,100 meters,Silver
+73,65607,"Edward Dale ""Ed"" Eyestone",M,27.0,185.0,61.0,United States,USA,1988 Summer,1988,Seoul,Athletics,Marathon,nan
+74,65608,"Edward Dale ""Ed"" Eyestone",M,31.0,185.0,61.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,Marathon,nan
+75,67070,"Joseph Patrick ""Joe"" Faust",M,17.0,183.0,84.0,United States,USA,1960 Summer,1960,Roma,Athletics,High Jump,nan
+76,71325,"Joseph ""Joe"" Forshaw, Jr.",M,24.0,184.0,74.0,United States,USA,1906 Summer,1906,Athina,Athletics,Marathon,nan
+77,71326,"Joseph ""Joe"" Forshaw, Jr.",M,26.0,184.0,74.0,United States,USA,1908 Summer,1908,London,Athletics,Marathon,Bronze
+78,71327,"Joseph ""Joe"" Forshaw, Jr.",M,30.0,184.0,74.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+79,71490,"Richard Douglas ""Dick"" Fosbury",M,21.0,193.0,83.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,High Jump,Gold
+80,71808,"Robert Arthur ""Bob"" Fowler",M,23.0,170.0,57.0,United States,USA,1906 Summer,1906,Athina,Athletics,Marathon,nan
+81,72266,William Gottlieb (Wilhelm-) Frank,M,27.0,178.0,61.0,United States,USA,1906 Summer,1906,Athina,Athletics,Marathon,Bronze
+82,75086,"John James Gallagher, Jr.",M,22.0,168.0,57.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+83,76563,"Robert ""Bob"" Garrett",M,20.0,188.0,81.0,United States,USA,1896 Summer,1896,Athina,Athletics,High Jump,Silver
+84,76918,Justin Alexander Gatlin,M,22.0,186.0,80.0,United States,USA,2004 Summer,2004,Athina,Athletics,100 meters,Gold
+85,76921,Justin Alexander Gatlin,M,30.0,186.0,80.0,United States,USA,2012 Summer,2012,London,Athletics,100 meters,Bronze
+86,76923,Justin Alexander Gatlin,M,34.0,186.0,80.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,100 meters,Silver
+87,77220,Tyson Lashane Gay,M,25.0,181.0,80.0,United States,USA,2008 Summer,2008,Beijing,Athletics,100 meters,nan
+88,77222,Tyson Lashane Gay,M,29.0,181.0,80.0,United States,USA,2012 Summer,2012,London,Athletics,100 meters,nan
+89,78302,Peter Clarence Gerhardt,M,34.0,175.0,68.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,nan
+90,79149,Herbert Alfred Gidney,M,26.0,183.0,71.0,United States,USA,1908 Summer,1908,London,Athletics,High Jump,nan
+91,80162,Harvey Edward Glance,M,19.0,173.0,67.0,United States,USA,1976 Summer,1976,Montreal,Athletics,100 meters,nan
+92,82086,Milton Goode,M,24.0,183.0,73.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,High Jump,nan
+93,83086,"Samuel Louis ""Sam"" Graddy, III",M,20.0,178.0,70.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,100 meters,Silver
+94,83940,"Charles Edward ""Charlie"" Greene",M,23.0,173.0,69.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,100 meters,Bronze
+95,83953,Maurice Greene,M,26.0,176.0,80.0,United States,USA,2000 Summer,2000,Sydney,Athletics,100 meters,Gold
+96,83955,Maurice Greene,M,30.0,176.0,80.0,United States,USA,2004 Summer,2004,Athina,Athletics,100 meters,Bronze
+97,85440,"Henry John ""Harry"" Grumpelt",M,27.0,178.0,64.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+98,88286,"Charles Archibald ""Archie"" Hahn",M,23.0,167.0,64.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,100 meters,Gold
+99,88288,"Charles Archibald ""Archie"" Hahn",M,25.0,167.0,64.0,United States,USA,1906 Summer,1906,Athina,Athletics,100 meters,Gold
+100,88807,Ryan Hall,M,25.0,180.0,61.0,United States,USA,2008 Summer,2008,Beijing,Athletics,Marathon,nan
+101,88808,Ryan Hall,M,29.0,180.0,61.0,United States,USA,2012 Summer,2012,London,Athletics,Marathon,nan
+102,89328,"William Franklin ""Frank"" Hamilton",M,24.0,176.0,70.0,United States,USA,1908 Summer,1908,London,Athletics,100 meters,nan
+103,91128,Tora L. Harris,M,25.0,190.0,81.0,United States,USA,2004 Summer,2004,Athina,Athletics,High Jump,nan
+104,91239,"Edward James ""Eddie"" Hart",M,23.0,178.0,69.0,United States,USA,1972 Summer,1972,Munich,Athletics,100 meters,nan
+105,91877,Sidney Herbert Hatch,M,20.0,168.0,57.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,nan
+106,91879,Sidney Herbert Hatch,M,24.0,168.0,57.0,United States,USA,1908 Summer,1908,London,Athletics,Marathon,nan
+107,92485,"Robert Lee ""Bob"" Hayes",M,21.0,183.0,86.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,100 meters,Gold
+108,92496,"John Joseph ""Johnny"" Hayes",M,22.0,162.0,55.0,United States,USA,1908 Summer,1908,London,Athletics,Marathon,Gold
+109,92930,"Benjamin Van Doren ""Ben"" Hedges, Jr.",M,20.0,185.0,66.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,High Jump,Silver
+110,93292,"Harold William ""Hal"" Heiland",M,22.0,180.0,70.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,nan
+111,93876,"Matthew E. ""Matt"" Hemingway",M,31.0,200.0,84.0,United States,USA,2004 Summer,2004,Athina,Athletics,High Jump,Silver
+112,94065,"James P. ""Jimmy"" Henigan",M,36.0,168.0,54.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,Marathon,nan
+113,94066,"James P. ""Jimmy"" Henigan",M,40.0,168.0,54.0,United States,USA,1932 Summer,1932,Los Angeles,Athletics,Marathon,nan
+114,95664,"Thomas John ""Tom"" Hicks",M,28.0,168.0,60.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,Gold
+115,96176,"James Ray ""Jim"" Hines",M,22.0,183.0,81.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,100 meters,Gold
+116,98666,George Leslie Horine,M,22.0,180.0,73.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,Bronze
+117,99399,"James Allen ""Jim"" Howard, Jr.",M,29.0,196.0,80.0,United States,USA,1988 Summer,1988,Seoul,Athletics,High Jump,nan
+118,105007,"Trenton James ""Trent"" Jackson",M,22.0,183.0,79.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,100 meters,nan
+119,106193,"William John ""Bill"" Jankunis",M,21.0,188.0,75.0,United States,USA,1976 Summer,1976,Montreal,Athletics,High Jump,nan
+120,106739,Frank Washington Jarvis,M,21.0,167.0,58.0,United States,USA,1900 Summer,1900,Paris,Athletics,100 meters,Gold
+121,109484,"Cornelius Cooper ""Corny"" Johnson",M,18.0,191.0,79.0,United States,USA,1932 Summer,1932,Los Angeles,Athletics,High Jump,nan
+122,109485,"Cornelius Cooper ""Corny"" Johnson",M,22.0,191.0,79.0,United States,USA,1936 Summer,1936,Berlin,Athletics,High Jump,Gold
+123,109488,Curtis Johnson,M,26.0,184.0,81.0,United States,USA,2000 Summer,2000,Sydney,Athletics,100 meters,nan
+124,109838,John Oliver Johnstone,M,20.0,185.0,70.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+125,109941,"Dustin Michael ""Dusty"" Jonas",M,22.0,193.0,82.0,United States,USA,2008 Summer,2008,Beijing,Athletics,High Jump,nan
+126,110121,"John Wesley ""Johnny"" Jones",M,18.0,183.0,77.0,United States,USA,1976 Summer,1976,Montreal,Athletics,100 meters,nan
+127,110216,"Samuel Symington ""Sam"" Jones",M,24.0,189.0,82.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,High Jump,Gold
+128,110241,"Thomas Martin ""Tom"" Jones",M,35.0,170.0,61.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,Marathon,nan
+129,110761,"Ronald Lee ""Ron"" Jourdan",M,25.0,186.0,68.0,United States,USA,1972 Summer,1972,Munich,Athletics,High Jump,nan
+130,111077,Robert Louis Juday,M,23.0,180.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,High Jump,nan
+131,113572,"Donald Franklin ""Don"" Kardong",M,27.0,190.0,68.0,United States,USA,1976 Summer,1976,Montreal,Athletics,Marathon,nan
+132,115263,"Mebrahtom R. ""Meb"" Keflezighi",M,29.0,166.0,56.0,United States,USA,2004 Summer,2004,Athina,Athletics,Marathon,Silver
+133,115264,"Mebrahtom R. ""Meb"" Keflezighi",M,37.0,166.0,56.0,United States,USA,2012 Summer,2012,London,Athletics,Marathon,nan
+134,115265,"Mebrahtom R. ""Meb"" Keflezighi",M,41.0,166.0,56.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Marathon,nan
+135,115549,"John Adelbert ""Johnny"" Kelley",M,28.0,167.0,56.0,United States,USA,1936 Summer,1936,Berlin,Athletics,Marathon,nan
+136,115550,"John Adelbert ""Johnny"" Kelley",M,40.0,167.0,56.0,United States,USA,1948 Summer,1948,London,Athletics,Marathon,nan
+137,115551,"John Joseph ""Johnny"" Kelley",M,25.0,167.0,57.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,Marathon,nan
+138,115552,"John Joseph ""Johnny"" Kelley",M,29.0,167.0,57.0,United States,USA,1960 Summer,1960,Roma,Athletics,Marathon,nan
+139,115754,"Robert Ralph ""Bob"" Kempainen",M,26.0,183.0,70.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,Marathon,nan
+140,115755,"Robert Ralph ""Bob"" Kempainen",M,30.0,183.0,70.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,Marathon,nan
+141,116238,"Herbert William ""Bert"" Kerrigan",M,27.0,175.0,59.0,United States,USA,1906 Summer,1906,Athina,Athletics,High Jump,Bronze
+142,119445,"Robert Wade ""Bob"" King",M,21.0,190.0,79.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,High Jump,Gold
+143,119989,Morris Marshall Kirksey,M,24.0,178.0,77.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,100 meters,Silver
+144,130227,"Erik Kynard, Jr.",M,21.0,194.0,89.0,United States,USA,2012 Summer,2012,London,Athletics,High Jump,Silver
+145,130228,"Erik Kynard, Jr.",M,25.0,194.0,89.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,High Jump,nan
+146,131789,"Richmond Wilcox ""Dick"" Landon",M,21.0,188.0,73.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,High Jump,Gold
+147,131870,"Francis Adonijah ""Frank"" Lane",M,21.0,170.0,69.0,United States,USA,1896 Summer,1896,Athina,Athletics,100 meters,Bronze
+148,135638,Nathan Leeper,M,23.0,188.0,82.0,United States,USA,2000 Summer,2000,Sydney,Athletics,High Jump,nan
+149,137690,"Frederick Carlton ""Carl"" Lewis",M,23.0,188.0,80.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,100 meters,Gold
+150,137694,"Frederick Carlton ""Carl"" Lewis",M,27.0,188.0,80.0,United States,USA,1988 Summer,1988,Seoul,Athletics,100 meters,Gold
+151,139093,Thomas Hugh Lilley,M,24.0,170.0,61.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+152,139667,Carl Waino Alexander (Viljo-) Linder (Heinonen-),M,30.0,175.0,66.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,Marathon,nan
+153,140248,Donald Fithian Lippincott,M,18.0,178.0,72.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,Bronze
+154,142517,John Charles Lordan,M,28.0,170.0,62.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,nan
+155,142662,"Frederick G. ""Fred"" Lorz",M,20.0,172.0,69.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,nan
+156,148526,"Aulis Olavi ""Ollie"" Manninen",M,31.0,172.0,68.0,United States,USA,1948 Summer,1948,London,Athletics,Marathon,nan
+157,148704,Andra Kareem Manson,M,24.0,196.0,75.0,United States,USA,2008 Summer,2008,Beijing,Athletics,High Jump,nan
+158,150282,"Michael Lawrence ""Mike"" Marsh",M,28.0,178.0,75.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,100 meters,nan
+159,153318,"William Wyman ""Willie"" May",M,21.0,175.0,73.0,United States,USA,1908 Summer,1908,London,Athletics,100 meters,nan
+160,153845,"Robert Francis ""Bob"" McAllister",M,28.0,170.0,71.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,100 meters,nan
+161,153851,Peter Joseph McArdle,M,35.0,177.0,57.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,Marathon,nan
+162,154474,Charles English McGinnis,M,21.0,180.0,68.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,High Jump,nan
+163,154560,"Verne Voorhees ""Vern"" McGrew, Jr.",M,18.0,190.0,72.0,United States,USA,1948 Summer,1948,London,Athletics,High Jump,nan
+164,154775,Gordon Edmund McKenzie,M,33.0,172.0,61.0,United States,USA,1960 Summer,1960,Roma,Athletics,Marathon,nan
+165,156274,"Charles Lawrence ""Chuck"" Mellor",M,26.0,175.0,66.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,Marathon,nan
+166,156275,"Charles Lawrence ""Chuck"" Mellor",M,30.0,175.0,66.0,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,nan
+167,156280,"Samuel Alexander ""Sammy"" Mellor, Jr.",M,24.0,178.0,58.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,nan
+168,157572,Ralph Harold Metcalfe,M,22.0,180.0,82.0,United States,USA,1932 Summer,1932,Los Angeles,Athletics,100 meters,Silver
+169,157574,Ralph Harold Metcalfe,M,26.0,180.0,82.0,United States,USA,1936 Summer,1936,Berlin,Athletics,100 meters,Silver
+170,157743,Alvah T. Meyer,M,23.0,173.0,65.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,Silver
+171,158196,"Albert Richard ""Whitey"" Michelsen",M,34.0,172.0,64.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,Marathon,nan
+172,158197,"Albert Richard ""Whitey"" Michelsen",M,38.0,172.0,64.0,United States,USA,1932 Summer,1932,Los Angeles,Athletics,Marathon,nan
+173,159328,"William Mervin ""Billy"" Mills",M,26.0,180.0,68.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,Marathon,nan
+174,159577,Edmund Joseph Minahan,M,17.0,183.0,86.0,United States,USA,1900 Summer,1900,Paris,Athletics,100 meters,nan
+175,160228,Dennis Allen Mitchell,M,22.0,175.0,70.0,United States,USA,1988 Summer,1988,Seoul,Athletics,100 meters,nan
+176,160230,Dennis Allen Mitchell,M,26.0,175.0,70.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,100 meters,Bronze
+177,160232,Dennis Allen Mitchell,M,30.0,175.0,70.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,100 meters,nan
+178,161129,"Thomas Robinson ""Tom"" Moffitt",M,24.0,180.0,79.0,United States,USA,1908 Summer,1908,London,Athletics,High Jump,nan
+179,162635,"Kenneth Clark ""Kenny"" Moore",M,24.0,183.0,64.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,Marathon,nan
+180,162636,"Kenneth Clark ""Kenny"" Moore",M,28.0,183.0,64.0,United States,USA,1972 Summer,1972,Munich,Athletics,Marathon,nan
+181,163977,"Thomas Patrick ""Tom"" Morrissey",M,19.0,181.0,69.0,United States,USA,1908 Summer,1908,London,Athletics,Marathon,nan
+182,163979,Bobby Joe Morrow,M,21.0,186.0,75.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,100 meters,Gold
+183,164491,Fay R. Moulton,M,28.0,175.0,70.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,100 meters,nan
+184,164493,Fay R. Moulton,M,30.0,175.0,70.0,United States,USA,1906 Summer,1906,Athina,Athletics,100 meters,Silver
+185,165394,Harold Powers Muller,M,18.0,185.0,86.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,High Jump,Silver
+186,166190,Ira James Murchison,M,23.0,165.0,65.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,100 meters,nan
+187,166192,Loren Murchison,M,21.0,174.0,68.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,100 meters,nan
+188,166195,Loren Murchison,M,25.0,174.0,68.0,United States,USA,1924 Summer,1924,Paris,Athletics,100 meters,nan
+189,166323,John Leonard Murphy,M,25.0,180.0,68.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,High Jump,nan
+190,170344,Arthur Lewis Newton,M,17.0,160.0,51.0,United States,USA,1900 Summer,1900,Paris,Athletics,Marathon,nan
+191,170346,Arthur Lewis Newton,M,21.0,160.0,51.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,Bronze
+192,170789,John Patrick Nicholson,M,22.0,183.0,75.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+193,171365,"James Earl ""Jamie"" Nieto",M,27.0,195.0,83.0,United States,USA,2004 Summer,2004,Athina,Athletics,High Jump,nan
+194,171366,"James Earl ""Jamie"" Nieto",M,35.0,195.0,83.0,United States,USA,2012 Summer,2012,London,Athletics,High Jump,nan
+195,172932,"Douglas ""Doug"" Nordquist",M,25.0,193.0,79.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,High Jump,nan
+196,173132,Otis Ray Norton,M,22.0,188.0,81.0,United States,USA,1960 Summer,1960,Roma,Athletics,100 meters,nan
+197,176325,"Wesley Marion Oler, Jr.",M,20.0,183.0,77.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+198,177963,Joseph LeRoy Organ,M,28.0,175.0,nan,United States,USA,1920 Summer,1920,Antwerpen,Athletics,Marathon,nan
+199,178430,Harold Marion Osborn (Osborne-),M,25.0,181.0,73.0,United States,USA,1924 Summer,1924,Paris,Athletics,High Jump,Gold
+200,178432,Harold Marion Osborn (Osborne-),M,29.0,181.0,73.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,High Jump,nan
+201,179558,"James Cleveland ""Jesse"" Owens",M,22.0,178.0,71.0,United States,USA,1936 Summer,1936,Berlin,Athletics,100 meters,Gold
+202,179976,"Charles William ""Charley"" Paddock",M,19.0,172.0,75.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,100 meters,Gold
+203,179979,"Charles William ""Charley"" Paddock",M,23.0,172.0,75.0,United States,USA,1924 Summer,1924,Paris,Athletics,100 meters,nan
+204,183284,Darvis Darell Patton,M,30.0,183.0,79.0,United States,USA,2008 Summer,2008,Beijing,Athletics,100 meters,nan
+205,183288,"Melvin Emery ""Mel"" Patton",M,23.0,185.0,72.0,United States,USA,1948 Summer,1948,London,Athletics,100 meters,nan
+206,185006,"Melvin ""Mel"" Pender, Jr.",M,26.0,165.0,68.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,100 meters,nan
+207,185007,"Melvin ""Mel"" Pender, Jr.",M,30.0,165.0,68.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,100 meters,nan
+208,187818,"Peter Dickson ""Pete"" Pfitzinger",M,26.0,174.0,60.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,Marathon,nan
+209,187819,"Peter Dickson ""Pete"" Pfitzinger",M,31.0,174.0,60.0,United States,USA,1988 Summer,1988,Seoul,Athletics,Marathon,nan
+210,188508,Frank C. Pierce,M,nan,178.0,65.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,nan
+211,188685,Richard Francis Piggott,M,23.0,175.0,63.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+212,189772,Darrin M. Plab,M,21.0,190.0,79.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,High Jump,nan
+213,191372,Tom Woodson Poor,M,21.0,183.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,High Jump,nan
+214,191835,Harry Franklin Porter,M,25.0,189.0,79.0,United States,USA,1908 Summer,1908,London,Athletics,High Jump,Gold
+215,193307,Meyer Prinstein,M,25.0,180.0,74.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,100 meters,nan
+216,193311,Meyer Prinstein,M,27.0,180.0,74.0,United States,USA,1906 Summer,1906,Athina,Athletics,100 meters,nan
+217,196417,John Barnett Rambo,M,21.0,200.0,86.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,High Jump,Bronze
+218,197685,Joie William Ray,M,34.0,165.0,54.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,Marathon,nan
+219,197931,"Philip Martin ""Phil"" Reavis",M,20.0,177.0,70.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,High Jump,nan
+220,198064,"John Alcorn ""James"" Rector",M,23.0,181.0,72.0,United States,USA,1908 Summer,1908,London,Athletics,100 meters,Silver
+221,198893,Lindy John Remigino,M,21.0,173.0,67.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,100 meters,Gold
+222,199609,John James Reynolds,M,22.0,173.0,68.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+223,200066,Alma Wilford Richards,M,22.0,188.0,84.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,Gold
+224,200444,"Steven Earl ""Steve"" Riddick",M,24.0,190.0,75.0,United States,USA,1976 Summer,1976,Montreal,Athletics,100 meters,nan
+225,201240,Dathan James Ritzenhein,M,25.0,173.0,55.0,United States,USA,2008 Summer,2008,Beijing,Athletics,Marathon,nan
+226,201830,Lawson Robertson,M,20.0,183.0,68.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,100 meters,nan
+227,201832,Lawson Robertson,M,22.0,183.0,68.0,United States,USA,1906 Summer,1906,Athina,Athletics,100 meters,nan
+228,201837,Lawson Robertson,M,24.0,183.0,68.0,United States,USA,1908 Summer,1908,London,Athletics,100 meters,nan
+229,201868,Ricky Robertson,M,25.0,180.0,75.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,High Jump,nan
+230,202013,"Reynaud Syverne ""Rey"" Robinson",M,20.0,183.0,66.0,United States,USA,1972 Summer,1972,Munich,Athletics,100 meters,nan
+231,202338,"William Henry ""Bill"" Rodgers",M,28.0,175.0,59.0,United States,USA,1976 Summer,1976,Montreal,Athletics,Marathon,nan
+232,204819,Arthur Vincent Roth,M,28.0,167.0,54.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,Marathon,nan
+233,206251,Galen Rupp,M,30.0,181.0,61.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Marathon,Bronze
+234,206406,"Henry Argue ""Hank"" Russell",M,23.0,185.0,77.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,100 meters,nan
+235,206804,"Michael James ""Mike"" Ryan",M,19.0,181.0,73.0,United States,USA,1908 Summer,1908,London,Athletics,Marathon,nan
+236,206805,"Michael James ""Mike"" Ryan",M,23.0,181.0,73.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+237,208485,Alberto Bauday Salazar,M,25.0,181.0,64.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,Marathon,nan
+238,212727,William Anthony Schick,M,24.0,183.0,68.0,United States,USA,1906 Summer,1906,Athina,Athletics,100 meters,nan
+239,213848,Jackson Volney Scholz,M,23.0,172.0,61.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,100 meters,nan
+240,213850,Jackson Volney Scholz,M,27.0,172.0,61.0,United States,USA,1924 Summer,1924,Paris,Athletics,100 meters,Silver
+241,216107,Brian E. Sell,M,29.0,178.0,64.0,United States,USA,2008 Summer,2008,Beijing,Athletics,Marathon,nan
+242,218229,"Nathaniel Alden ""Nate"" Sherman",M,20.0,185.0,75.0,United States,USA,1908 Summer,1908,London,Athletics,100 meters,nan
+243,218987,Frank Charles Shorter,M,24.0,178.0,61.0,United States,USA,1972 Summer,1972,Munich,Athletics,Marathon,Gold
+244,218988,Frank Charles Shorter,M,28.0,178.0,61.0,United States,USA,1976 Summer,1976,Montreal,Athletics,Marathon,Silver
+245,220285,"David William ""Dave"" Sime",M,24.0,189.0,81.0,United States,USA,1960 Summer,1960,Roma,Athletics,100 meters,Silver
+246,220763,George Sidney Simpson,M,23.0,180.0,75.0,United States,USA,1932 Summer,1932,Los Angeles,Athletics,100 meters,nan
+247,223421,Calvin Smith,M,27.0,178.0,69.0,United States,USA,1988 Summer,1988,Seoul,Athletics,100 meters,Bronze
+248,223480,Finis Dean Smith,M,20.0,180.0,72.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,100 meters,nan
+249,223544,Harry James Smith,M,23.0,178.0,66.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+250,224339,Andrew Sockalexis,M,21.0,175.0,66.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+251,226340,"Steven Anthony ""Steve"" Spence",M,30.0,175.0,62.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,Marathon,nan
+252,226656,"George Burton Spitz, Jr.",M,20.0,183.0,72.0,United States,USA,1932 Summer,1932,Los Angeles,Athletics,High Jump,nan
+253,226826,"Michael ""Mike"" Spring",M,24.0,167.0,54.0,United States,USA,1904 Summer,1904,St. Louis,Athletics,Marathon,nan
+254,226827,"Michael ""Mike"" Spring",M,26.0,167.0,54.0,United States,USA,1906 Summer,1906,Athina,Athletics,Marathon,nan
+255,227554,George Anthony Stanich,M,19.0,190.0,84.0,United States,USA,1948 Summer,1948,London,Athletics,High Jump,Bronze
+256,227648,Brian E. Stanton,M,27.0,196.0,82.0,United States,USA,1988 Summer,1988,Seoul,Athletics,High Jump,nan
+257,230010,Dwight Edwin Stones,M,18.0,197.0,81.0,United States,USA,1972 Summer,1972,Munich,Athletics,High Jump,Bronze
+258,230011,Dwight Edwin Stones,M,22.0,197.0,81.0,United States,USA,1976 Summer,1976,Montreal,Athletics,High Jump,Bronze
+259,230012,Dwight Edwin Stones,M,30.0,197.0,81.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,High Jump,nan
+260,230704,Gaston M. Strobino,M,20.0,160.0,50.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,Bronze
+261,237161,Robert James Taylor,M,23.0,183.0,80.0,United States,USA,1972 Summer,1972,Munich,Athletics,100 meters,Silver
+262,238151,Lewis Tewanima,M,nan,160.0,51.0,United States,USA,1908 Summer,1908,London,Athletics,Marathon,nan
+263,238153,Lewis Tewanima,M,nan,160.0,51.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,Marathon,nan
+264,238169,Walter Beardsley Tewksbury,M,24.0,183.0,64.0,United States,USA,1900 Summer,1900,Paris,Athletics,100 meters,Silver
+265,238249,Dean Allan Thackwray,M,23.0,175.0,57.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,Marathon,nan
+266,238975,John Curtis Thomas,M,19.0,196.0,88.0,United States,USA,1960 Summer,1960,Roma,Athletics,High Jump,Bronze
+267,238976,John Curtis Thomas,M,23.0,196.0,88.0,United States,USA,1964 Summer,1964,Tokyo,Athletics,High Jump,Silver
+268,239071,"Rupert Broas Thomas, Jr.",M,21.0,183.0,70.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,nan
+269,239626,"James Francis ""Jim"" Thorpe",M,24.0,183.0,86.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,High Jump,nan
+270,239777,Delos Packard Thurber,M,19.0,188.0,73.0,United States,USA,1936 Summer,1936,Berlin,Athletics,High Jump,Bronze
+271,241134,"Thomas Edward ""Eddie"" Tolan, Jr.",M,23.0,170.0,65.0,United States,USA,1932 Summer,1932,Los Angeles,Athletics,100 meters,Gold
+272,245344,John B. Tuttle,M,25.0,185.0,70.0,United States,USA,1984 Summer,1984,Los Angeles,Athletics,Marathon,nan
+273,249301,"Robert Logan ""Bob"" Van Osdel",M,22.0,183.0,68.0,United States,USA,1932 Summer,1932,Los Angeles,Athletics,High Jump,Silver
+274,253723,"Theodore John ""Ted"" Vogel",M,23.0,178.0,61.0,United States,USA,1948 Summer,1948,London,Athletics,Marathon,nan
+275,257053,Jared Ward,M,27.0,178.0,66.0,United States,USA,2016 Summer,2016,Rio de Janeiro,Athletics,Marathon,nan
+276,258821,Alton Roy Welton,M,22.0,162.0,57.0,United States,USA,1908 Summer,1908,London,Athletics,Marathon,nan
+277,258885,Frank Edward Wendling,M,26.0,163.0,nan,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,nan
+278,259499,Walter Leo Whalen,M,22.0,183.0,68.0,United States,USA,1920 Summer,1920,Antwerpen,Athletics,High Jump,nan
+279,260322,"Kenneth George ""Ken"" Wiesner",M,27.0,192.0,91.0,United States,USA,1952 Summer,1952,Helsinki,Athletics,High Jump,Silver
+280,261000,Jesse Daniel Williams,M,24.0,184.0,80.0,United States,USA,2008 Summer,2008,Beijing,Athletics,High Jump,nan
+281,261001,Jesse Daniel Williams,M,28.0,184.0,80.0,United States,USA,2012 Summer,2012,London,Athletics,High Jump,nan
+282,261435,Clement Pierce Wilson,M,21.0,178.0,64.0,United States,USA,1912 Summer,1912,Stockholm,Athletics,100 meters,nan
+283,261616,"Vernon Troylee ""Vern"" Wilson",M,25.0,189.0,77.0,United States,USA,1956 Summer,1956,Melbourne,Athletics,High Jump,nan
+284,262108,Donald Mark Witherspoon,M,28.0,196.0,85.0,United States,USA,1992 Summer,1992,Barcelona,Athletics,100 meters,nan
+285,263179,Cameron M. Wright,M,23.0,193.0,80.0,United States,USA,1996 Summer,1996,Atlanta,Athletics,High Jump,nan
+286,263645,Frank Clifford Wykoff,M,18.0,178.0,68.0,United States,USA,1928 Summer,1928,Amsterdam,Athletics,100 meters,nan
+287,263648,Frank Clifford Wykoff,M,26.0,178.0,68.0,United States,USA,1936 Summer,1936,Berlin,Athletics,100 meters,nan
+288,266244,George L. Young,M,31.0,175.0,67.0,United States,USA,1968 Summer,1968,Mexico City,Athletics,Marathon,nan
+289,270795,Frank Thomas Zuna,M,31.0,175.0,69.0,United States,USA,1924 Summer,1924,Paris,Athletics,Marathon,nan
