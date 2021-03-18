@@ -1,0 +1,190 @@
+,Country,GDP_per_cap,Life_exp,Unemployment,Continent
+0,Afghanistan,623.2,63.5,8.6,SouthernAsia
+1,Albania,3984.2,79.9,15.8,SouthernEurope
+2,Algeria,4154.1,76.5,11.4,NorthernAfrica
+3,Angola,4714.1,63.0,6.6,MiddleAfrica
+4,Argentina,14564.5,79.8,6.5,SouthAmerica
+5,Armenia,3489.1,77.0,16.6,WesternAsia
+6,Australia,51352.2,84.4,5.5,Oceania
+7,Austria,44117.7,83.5,6.2,WesternEurope
+8,Azerbaijan,5438.7,74.6,5.2,WesternAsia
+9,Bahamas,22817.2,78.1,14.7,Caribbean
+10,Bahrain,22600.2,77.5,1.3,WesternAsia
+11,Bangladesh,1207.9,72.9,4.0,SouthernAsia
+12,Barbados,15429.4,77.7,11.3,Caribbean
+13,Belarus,5750.8,77.7,0.5,EasternEurope
+14,Belgium,40277.8,83.0,8.3,WesternEurope
+15,Belize,4789.4,72.7,11.5,CentralAmerica
+16,Benin,779.1,61.4,1.0,WesternAfrica
+17,Bermuda,94399.9,85.1,6.7,NorthernAmerica
+18,Bhutan,2677.1,68.9,2.4,SouthernAsia
+19,Bolivia (Plurinational State of),3076.8,70.2,3.8,SouthAmerica
+20,Bosnia and Herzegovina,4265.0,78.8,25.4,SouthernEurope
+21,Botswana,6360.6,66.1,18.6,SouthernAfrica
+22,Brazil,8528.3,78.4,12.4,SouthAmerica
+23,Brunei Darussalam,30552.7,78.4,2.1,South-easternAsia
+24,Bulgaria,6846.8,77.8,8.1,EasternEurope
+25,Burkina Faso,611.1,59.3,2.9,WesternAfrica
+26,Burundi,244.6,58.0,1.7,EasternAfrica
+27,Cabo Verde,3080.2,74.0,10.5,WesternAfrica
+28,Cambodia,1158.7,69.6,0.3,South-easternAsia
+29,Cameroon,1217.3,57.7,4.6,MiddleAfrica
+30,Canada,43205.6,83.8,7.1,NorthernAmerica
+31,Central African Republic,333.2,51.0,6.9,MiddleAfrica
+32,Chad,713.0,52.8,5.8,MiddleAfrica
+33,Chile,13416.2,81.3,6.8,SouthAmerica
+34,"China, Hong Kong SAR",42431.0,86.4,3.5,EasternAsia
+35,"China, Macao SAR",78586.4,86.2,3.2,EasternAsia
+36,China,8109.1,77.2,4.6,EasternAsia
+37,Colombia,6056.1,77.4,10.5,SouthAmerica
+38,Comoros,1368.9,64.5,20.0,EasternAfrica
+39,Congo,1838.1,64.1,11.5,MiddleAfrica
+40,Cook Islands,14118.7,79.6,8.2,Polynesia
+41,Costa Rica,11015.0,81.7,8.6,CentralAmerica
+42,Croatia,11479.4,80.4,11.7,SouthernEurope
+43,Cuba,7656.6,81.3,3.0,Caribbean
+44,Cyprus,21941.9,82.2,10.3,WesternAsia
+45,Czechia,17561.7,81.2,3.9,EasternEurope
+46,Democratic People's Republic of Korea,648.0,74.1,4.3,EasternAsia
+47,Democratic Republic of the Congo,486.2,59.5,3.6,MiddleAfrica
+48,Denmark,53149.3,82.2,6.0,NorthernEurope
+49,Djibouti,1956.3,63.2,6.6,EasternAfrica
+50,Dominican Republic,6373.6,76.4,14.4,Caribbean
+51,Ecuador,6205.1,78.4,5.8,SouthAmerica
+52,Egypt,3452.3,73.0,11.5,NorthernAfrica
+53,El Salvador,4219.4,77.1,6.4,CentralAmerica
+54,Equatorial Guinea,16344.1,58.4,7.7,MiddleAfrica
+55,Eritrea,914.9,65.6,7.3,EasternAfrica
+56,Estonia,17112.0,81.2,7.2,NorthernEurope
+57,Ethiopia,602.8,65.5,5.7,EasternAfrica
+58,Fiji,4921.9,72.9,7.7,Melanesia
+59,Finland,42148.1,83.7,8.9,NorthernEurope
+60,France,36304.2,85.0,9.8,WesternEurope
+61,French Polynesia,18161.0,78.6,17.0,Polynesia
+62,Gabon,7960.7,65.8,18.1,MiddleAfrica
+63,Gambia,473.2,61.6,29.7,WesternAfrica
+64,Georgia,3491.4,77.0,11.4,WesternAsia
+65,Germany,41686.2,82.9,4.2,WesternEurope
+66,Ghana,1355.6,62.6,5.9,WesternAfrica
+67,Greece,17788.0,83.3,23.0,SouthernEurope
+68,Greenland,36976.7,73.4,9.7,NorthernAmerica
+69,Guatemala,3903.5,75.6,2.4,CentralAmerica
+70,Guinea-Bissau,530.0,57.7,6.5,WesternAfrica
+71,Guinea,703.9,58.4,6.8,WesternAfrica
+72,Guyana,4278.8,68.6,11.3,SouthAmerica
+73,Haiti,793.7,64.4,12.9,Caribbean
+74,Honduras,2521.9,75.4,5.6,CentralAmerica
+75,Hungary,12350.6,78.8,4.5,EasternEurope
+76,Iceland,50936.0,83.8,3.6,NorthernEurope
+77,India,1614.2,69.1,3.4,SouthernAsia
+78,Indonesia,3346.5,70.7,5.8,South-easternAsia
+79,Iran (Islamic Republic of),5038.1,76.2,11.3,SouthernAsia
+80,Iraq,4509.0,71.4,16.1,WesternAsia
+81,Ireland,60513.6,83.0,7.6,NorthernEurope
+82,Israel,37129.4,83.7,5.9,WesternAsia
+83,Italy,30462.4,84.7,11.4,SouthernEurope
+84,Jamaica,5105.8,77.9,13.1,Caribbean
+85,Japan,34628.7,86.4,3.0,EasternAsia
+86,Jordan,4940.1,75.5,13.4,WesternAsia
+87,Kazakhstan,10312.1,73.9,5.6,CentralAsia
+88,Kenya,1376.7,67.8,10.8,EasternAfrica
+89,Kuwait,29303.9,75.5,2.2,WesternAsia
+90,Kyrgyzstan,1106.4,74.3,7.7,CentralAsia
+91,Lao People's Democratic Republic,1850.2,66.8,1.5,South-easternAsia
+92,Latvia,13704.1,78.7,9.6,NorthernEurope
+93,Lebanon,8571.4,80.9,7.0,WesternAsia
+94,Lesotho,940.6,54.7,27.5,SouthernAfrica
+95,Liberia,455.9,61.6,4.1,WesternAfrica
+96,Libya,5488.2,74.4,19.2,NorthernAfrica
+97,Lithuania,14383.7,79.3,9.2,NorthernEurope
+98,Luxembourg,100160.8,83.4,5.6,WesternEurope
+99,Madagascar,401.8,66.0,2.3,EasternAfrica
+100,Malawi,372.9,63.1,6.8,EasternAfrica
+101,Malaysia,9768.4,77.1,3.3,South-easternAsia
+102,Maldives,9446.5,77.4,2.9,SouthernAsia
+103,Mali,744.3,56.9,8.1,WesternAfrica
+104,Malta,23280.7,82.0,5.4,SouthernEurope
+105,Marshall Islands,3452.6,72.5,4.7,Micronesia
+106,Mauritania,1235.0,64.1,12.0,WesternAfrica
+107,Mauritius,9040.9,77.7,7.6,EasternAfrica
+108,Mexico,8980.9,78.9,4.1,CentralAmerica
+109,Mongolia,3973.4,72.7,6.3,EasternAsia
+110,Montenegro,6424.1,78.8,17.4,SouthernEurope
+111,Morocco,2919.3,76.0,10.4,NorthernAfrica
+112,Mozambique,529.2,58.1,24.1,EasternAfrica
+113,Myanmar,1161.5,68.3,0.8,South-easternAsia
+114,Namibia,4673.6,64.3,24.9,SouthernAfrica
+115,Nauru,18469.2,64.8,23.0,Micronesia
+116,Nepal,724.5,70.4,3.0,SouthernAsia
+117,Netherlands,44332.1,83.1,5.6,WesternEurope
+118,New Caledonia,33965.7,79.3,15.1,Melanesia
+119,New Zealand,38294.3,83.1,5.5,Oceania
+120,Nicaragua,2086.9,77.5,6.1,CentralAmerica
+121,Niger,359.0,59.5,2.7,WesternAfrica
+122,Nigeria,2714.5,52.6,5.4,WesternAfrica
+123,Norway,74185.5,83.6,5.1,NorthernEurope
+124,Oman,15550.8,78.7,17.8,WesternAsia
+125,Pakistan,1410.4,66.8,5.9,SouthernAsia
+126,Panama,13268.1,80.5,6.2,CentralAmerica
+127,Papua New Guinea,2797.6,67.4,2.5,Melanesia
+128,Paraguay,4174.4,74.9,5.5,SouthAmerica
+129,Peru,6069.1,76.8,5.3,SouthAmerica
+130,Philippines,2904.2,72.1,5.9,South-easternAsia
+131,Poland,12355.5,81.0,5.3,EasternEurope
+132,Portugal,19239.2,83.5,10.5,SouthernEurope
+133,Puerto Rico,27939.0,83.2,12.8,Caribbean
+134,Qatar,73653.4,79.4,0.3,WesternAsia
+135,Republic of Korea,27396.7,84.4,3.6,EasternAsia
+136,Republic of Moldova,1591.4,75.2,5.0,EasternEurope
+137,Romania,9120.7,78.4,7.1,EasternEurope
+138,Russian Federation,9243.3,75.9,5.8,EasternEurope
+139,Rwanda,697.3,67.1,2.4,EasternAfrica
+140,Saint Lucia,7839.4,77.6,19.0,Caribbean
+141,Saint Vincent and the Grenadines,6739.2,74.9,19.1,Caribbean
+142,Samoa,4006.0,77.4,6.5,Polynesia
+143,San Marino,49240.2,86.4,6.6,SouthernEurope
+144,Sao Tome and Principe,1752.8,68.2,13.6,MiddleAfrica
+145,Saudi Arabia,20710.6,75.6,5.5,WesternAsia
+146,Senegal,901.1,67.5,9.3,WesternAfrica
+147,Serbia,5238.6,77.5,15.5,SouthernEurope
+148,Seychelles,14133.2,77.9,4.1,EasternAfrica
+149,Sierra Leone,694.8,50.7,3.1,WesternAfrica
+150,Singapore,52239.0,84.5,2.0,South-easternAsia
+151,Slovakia,16082.5,79.8,9.9,EasternEurope
+152,Slovenia,20689.8,83.2,8.1,SouthernEurope
+153,Solomon Islands,1841.6,71.1,31.4,Melanesia
+154,Somalia,144.5,56.5,6.6,EasternAfrica
+155,South Africa,5773.0,63.0,26.0,SouthernAfrica
+156,Spain,25865.4,85.3,18.3,SouthernEurope
+157,Sri Lanka,3973.7,78.0,5.2,SouthernAsia
+158,State of Palestine,2715.5,74.8,24.2,WesternAsia
+159,Sudan,1977.0,65.1,13.4,NorthernAfrica
+160,Suriname,8985.3,74.2,9.9,SouthAmerica
+161,Swaziland,3211.7,58.2,25.1,SouthernAfrica
+162,Sweden,50687.5,83.7,7.3,NorthernEurope
+163,Switzerland,80831.1,84.8,4.6,WesternEurope
+164,Syrian Arab Republic,1534.5,76.3,13.8,WesternAsia
+165,Tajikistan,925.9,73.5,10.8,CentralAsia
+166,Thailand,5814.8,78.4,0.6,South-easternAsia
+167,The former Yugoslav Republic of Macedonia,4836.1,77.2,27.3,SouthernEurope
+168,Timor-Leste,2425.4,69.5,4.3,South-easternAsia
+169,Togo,559.4,59.8,6.8,WesternAfrica
+170,Tonga,3784.5,75.6,4.8,Polynesia
+171,Trinidad and Tobago,19062.9,73.8,4.2,Caribbean
+172,Tunisia,3660.9,77.1,14.6,NorthernAfrica
+173,Turkey,9125.8,78.1,10.8,WesternAsia
+174,Turkmenistan,6996.7,70.8,8.6,CentralAsia
+175,Uganda,647.7,60.7,2.4,EasternAfrica
+176,Ukraine,2021.6,76.0,8.8,EasternEurope
+177,United Arab Emirates,40438.8,78.2,3.7,WesternAsia
+178,United Kingdom,44162.4,82.8,5.0,NorthernEurope
+179,United Republic of Tanzania,877.3,64.8,2.7,EasternAfrica
+180,United States of America,56053.8,81.2,4.9,NorthernAmerica
+181,Uruguay,15573.8,80.4,8.8,SouthAmerica
+182,Uzbekistan,2308.3,73.5,8.9,CentralAsia
+183,Vanuatu,2783.0,73.6,5.3,Melanesia
+184,Venezuela (Bolivarian Republic of),11068.9,78.2,6.6,SouthAmerica
+185,Viet Nam,2067.9,80.3,2.2,South-easternAsia
+186,Yemen,1106.4,65.6,16.1,WesternAsia
+187,Zambia,1311.1,61.9,7.4,EasternAfrica
+188,Zimbabwe,890.4,59.0,5.0,EasternAfrica
